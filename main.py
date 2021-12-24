@@ -27,9 +27,9 @@ from sklearn.linear_model import LinearRegression
 from mpl_toolkits.mplot3d import Axes3D
 
 """Reading the dataset"""
-data_1 = pd.read_csv('Dataset/IT Salary Survey EU 2018.csv')
-data_2 = pd.read_csv('Dataset/IT Salary Survey EU 2019.csv')
-data_3 = pd.read_csv('Dataset/IT Salary Survey EU  2020.csv')
+data_1 = pd.read_csv('Dataset/IT_Salary_Survey_EU_2018.csv')
+data_2 = pd.read_csv('Dataset/IT_Salary_Survey EU_2019.csv')
+data_3 = pd.read_csv('Dataset/IT_Salary_Survey EU_2020.csv')
 
 """For the first data frame"""
 
